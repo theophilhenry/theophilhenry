@@ -2,7 +2,7 @@
 
 ### Hello Everyone! 안녕하세요! 👋
 
-I'm **Theo**. Experienced `Full Stack Web Developer` with 2+ years of experience in programming internship experiences and 6+ years of design volunteers. Well-versed in language such as HTML5, CSS, JS, PHP, MySQL, and etc, plus design tools such as Figma and Photoshop. Able to execute customer’s needs to a sophisticated programs. 
+I'm **Theo**. Multidicplinary developer, quick learner, thirst of skills, competent in software development, design, and deployment. Pursuing the best result, and never stop exploring the tech world. A system engineer Kubernetes learner, A backend GraphQL lover, and a frontend ReactJS husband. Often work on a PHP Laravel, Rails, Node Backend, React, Docker, Microservice environment. Have a strong communication skill, to plan app development, ensuring highquality and fulfillment of business market needs. Always open to a set of new skills and challenges to further improve my IT skills.
 
 > Driven to digitalize society, in order to improve quality of life. I love to build a flexible system for easy further development. 
 
