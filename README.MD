@@ -2,11 +2,9 @@
 
 ### Hello Everyone! 안녕하세요! 👋
 
-I'm **Theo**. Multidicplinary developer, quick learner, thirst of skills, competent in software development, design, and deployment. Pursuing the best result, and never stop exploring the tech world. A system engineer Kubernetes learner, A backend GraphQL lover, and a frontend ReactJS husband. Often work on a PHP Laravel, Rails, Node Backend, React, Docker, Microservice environment. Have a strong communication skill, to plan app development, ensuring highquality and fulfillment of business market needs. Always open to a set of new skills and challenges to further improve my IT skills.
+I'm **Theo**. Multidisciplinary developer, quick learner, thirst for skills, competent in software development, design, and deployment. Pursuing the optimum result, and never stop exploring the tech world. Often work on a PHP Laravel, Rails, Node Backend, React/Next, Docker & Kubernetes-based Microservice environment. Have strong communication skills, to plan app development, ensuring high quality and fulfillment of business market needs. Always open to a set of new skills and challenges to further improve my IT skills.
 
 > Driven to digitalize society, in order to improve quality of life. I love to build a flexible system for easy further development. 
-
-In pursue of a `Data Science` Degree, I'm a student at **Universitas Surabaya** and **Machine Learning Path Bangkit Academy 2022 by Google, GoTo and Traveloka**. Aside from my technical skills,I love to connect with people to improve my communication and adaptability skills.
 
 `Let's Connect!` [Linkedin](https://www.linkedin.com/in/theophil-henry-soegianto-30b541218/)
 
